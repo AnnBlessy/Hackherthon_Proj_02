@@ -27,6 +27,9 @@ The climate analysis for Delhi, a region characterized by its extreme temperatur
 
 ![image](https://github.com/AnnBlessy/Hackherthon_Proj_02/assets/119477835/599792dc-d2a0-4263-87ed-ef0e3968f3d6)
 
+![image](https://github.com/AnnBlessy/Hackherthon_Proj_02/assets/119477835/bb810741-4c9e-4b6b-b1b2-19649d3c331f)
+
+
 ## Scatterplot
 
 ![image](https://github.com/AnnBlessy/Hackherthon_Proj_02/assets/119477835/cc44afec-f0d5-4efb-a870-c04fd483417c)
